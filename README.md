@@ -1,3 +1,8 @@
+AUDIO ONLY!!!! NO VIDEO STREAM
+
+
+
+
 Tested on Iphone 15 PM ios 26.6.1 with ps4 pro 13.52
 
 
